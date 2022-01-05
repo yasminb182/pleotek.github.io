@@ -1,2 +1,2 @@
-# pleodocs
+# Pleodocs
 Pleocare software documentation
